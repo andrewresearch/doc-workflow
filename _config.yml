@@ -3,7 +3,7 @@ title: 'Documentation Workflow'
 subtitle: 'CIC process for documenting projects'
 
 # if you wish to integrate disqus on pages set your shortname here
-disqus_shortname: ''
+# disqus_shortname: ''
 
 # if you use google analytics, add your tracking id here
 google_analytics_id: ''
@@ -15,7 +15,7 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
+codeurl: 'https://github.com/andrewresearch/doc-workflow'
 
 # Default categories (in order) to appear in the navigation
 sections: [
