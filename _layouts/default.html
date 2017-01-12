@@ -68,6 +68,7 @@
                     sections = [],
                     lists = {},
                     headers = {};
+<<<<<<< HEAD
 
                 var navUl = document.querySelectorAll('#navigation ul')[0],
                     navLis = document.querySelectorAll('#navigation ul li');
@@ -77,12 +78,20 @@
                 for (var i = 0; i < navLis.length; i++) {
                     var order, li = navLis[i];
 
+=======
+                var navUl = document.querySelectorAll('#navigation ul')[0],
+                    navLis = document.querySelectorAll('#navigation ul li');
+                if (!navUl) return;
+                for (var i = 0; i < navLis.length; i++) {
+                    var order, li = navLis[i];
+>>>>>>> origin/master
                     if (li.classList.contains('nav-header')) {
                         section = li.textContent || li.innerText;
                         sections.push(section);
                         headers[section] = li;
                         continue;
                     }
+<<<<<<< HEAD
 
                     if (!lists[section]) {
                         lists[section] = [];
@@ -92,12 +101,23 @@
                     lists[section].push([order, li]);
                 }
 
+=======
+                    if (!lists[section]) {
+                        lists[section] = [];
+                    }
+                    order = parseFloat(li.getAttribute('data-order'))
+                    lists[section].push([order, li]);
+                }
+>>>>>>> origin/master
                 for (var i = 0; i < sections.length; i++) {
                     section = sections[i];
                     list = lists[section].sort(function(a, b) {
                         return a[0] - b[0];
                     });
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
                     if (header = headers[section]) {
                         navUl.appendChild(header);
                     }
@@ -106,7 +126,10 @@
                     }
                 }
             }
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
             if (document.querySelectorAll) orderNav();
         </script>
         {% if site.google_analytics_id != "" %}
