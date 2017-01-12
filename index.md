@@ -4,7 +4,7 @@ title: CIC document workflow
 published: true
 ---
 
-### Documentation
+### Getting Started
 
 A documentation template for GitHub Pages based on the template developed by [http://bruth.github.io/jekyll-docs-template/](http://bruth.github.io/jekyll-docs-template/)
 
