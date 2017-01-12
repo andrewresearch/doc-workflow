@@ -12,7 +12,7 @@ This template is intended to use with GitBook, to ensure ready availability of d
 
 To setup this template for your own project, follow these steps:
 
-1. Fork this repo into a new GitHub repo for your documentation
+1. Fork this [repo](https://github.com/andrewresearch/doc-workflow.git) into a new GitHub repo for your documentation
 2. Link the new repo to GitBook \(You can download a desktop version of GitBook for Mac or Windows\)
 3. Open your new GitBook
 4. Edit the `_config.yml` file, save and publish \(commit and push\)
