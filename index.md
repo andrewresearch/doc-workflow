@@ -21,3 +21,16 @@ To setup this template for your own project, follow these steps:
 
 
 
+---
+
+Documentation for \[Project Name\]
+
+Provide an outline of the project here
+
+| Project version | 0.0 |
+| :--- | :--- |
+| Documentation Version | 0.0 |
+| Last Updated | 2017-01-12 |
+
+
+
