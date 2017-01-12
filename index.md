@@ -12,8 +12,8 @@ This template is intended to use with GitBook, to ensure ready availability of d
 
 To setup this template for your own project, follow these steps:
 
-* [ ] Fork this repo into a new GitHub repo for your documentation
-* [ ] Link the new repo to GitBook
+1. Fork this repo into a new GitHub repo for your documentation
+2. Link the new repo to GitBook
 
 
 
