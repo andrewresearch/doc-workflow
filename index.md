@@ -26,7 +26,21 @@ To setup this template for your own project, follow these steps:
 
 Provide an outline of your project here.
 
+#### Documentation
 
+General documentation for the project
+
+#### Reference
+
+Reference information \(e.g. list of functions, API docs, etc\)
+
+#### Tutorials
+
+How-to document
+
+#### Posts
+
+Updates, News, references to third party resources and other general posts
 
 #### Version Information
 
