@@ -1,4 +1,4 @@
-Read the instructions for the use of this template on \[GitBook\]
+Read the instructions for the use of this template on [GitBook]
 
-\[GitBook\]: [https://andrewresearch.github.io/doc-workflow/](https://andrewresearch.github.io/doc-workflow/)
+[GitBook]: https://andrewresearch.github.io/doc-workflow/
 
