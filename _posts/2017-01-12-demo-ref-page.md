@@ -1,11 +1,9 @@
 ---
 layout: page
-date: {}
-title: New Page 2
+date: 2017-01-12T00:00:00.000Z
+title: Demo Ref Page
 category: ref
-published: true
 ---
 
-
-
 This is a test ref page
+
