@@ -18,14 +18,17 @@ To setup this template for your own project, follow these steps:
 4. Edit the `_config.yml` file, save and publish \(commit and push\)
 5. Edit the  `index.md` file, save and publish
 6. Add your content into the `_posts` folder
-
-
+7. Remove this instruction text
 
 ---
 
-Documentation for \[Project Name\]
+## Documentation for \[Project Name\]
 
-Provide an outline of the project here
+Provide an outline of your project here.
+
+
+
+#### Version Information
 
 | Project version | 0.0 |
 | :--- | :--- |
