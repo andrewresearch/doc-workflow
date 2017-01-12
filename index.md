@@ -16,7 +16,7 @@ To setup this template for your own project, follow these steps:
 2. Link the new repo to GitBook \(You can download a desktop version of GitBook for Mac or Windows\)
 3. Open your new GitBook
 4. Edit the `_config.yml` file, save and publish \(commit and push\)
-5. Edit the  `index.md` file, save and publish
+5. Edit the  `index.md` file, save and publish - write using [GitHub Flavoured Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 6. Add your content into the `_posts` folder
 7. Remove this instruction text
 
