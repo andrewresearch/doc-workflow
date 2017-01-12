@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CIC document workflow
+title: document workflow
 published: true
 ---
 
